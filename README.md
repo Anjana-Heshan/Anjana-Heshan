@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Assosiate Software Engineer** from Sri Lanka, dedicated to crafting elegant solutions through code. I love building full-stack applications and exploring new technologies!
+I'm a passionate **Intern Software Engineer** from Sri Lanka, dedicated to crafting elegant solutions through code. I love building full-stack applications and exploring new technologies!
 
 ```javascript
 const anjana = {
