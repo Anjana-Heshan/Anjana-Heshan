@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Assosiate+Software+Engineering;Full+Stack+Developer;Problem+Solver;Always+Learning!)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Intern+Software+Engineering;Full+Stack+Developer;Problem+Solver;Always+Learning!)
   
 </div>
 
@@ -17,7 +17,7 @@ const anjana = {
     currentFocus: "Full Stack Development",
     interests: ["Web Development", "Mobile Apps", "Cloud Technologies"],
     motto: "Code is poetry written in logic"
-    current: "Assosiate Software Engineer"
+    current: "Intern Software Engineer"
 };
 ```
 
